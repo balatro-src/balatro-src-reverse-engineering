@@ -9,7 +9,7 @@ This project was not designed as a way to pirate the game. It was made as an att
 ### "Compiling" Setup
 
 ### Step One
- Download LOVE2D at love2d.org
+ Download LOVE2D at https://love2d.org
 
 ### Step Two
  Clone the project using Git:
