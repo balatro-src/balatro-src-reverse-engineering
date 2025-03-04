@@ -6,6 +6,10 @@ This project includes the Balatro Source Code with the Textures and Shaders incl
 
 This project was not designed as a way to pirate the game. It was made as an attempt to reverse engineer and learn about the code that was written, and as a result learning the Love2D framework. 
 
+### Test Menu
+
+ Balatro-OSS by default has the test menu enabled. To access it, simply hold tab when playing.
+
 ### "Compiling" Setup
 
 ### Step One
