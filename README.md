@@ -30,13 +30,11 @@ This project was not designed as a way to pirate the game. It was made as an att
     love .`
   
 ### Linux
-`cd <repo-dir>
-
+`cd <repo-dir> &&
 love .`
 
 ### Windows
-`cd <repo-dir>
-
+`cd <repo-dir> &&
 love.exe .`
 
 This is a simple reverse engineering attempt of the game "Balatro", not some way to "pirate" the game. To actually play the game and support the devs, buy the game on Steam or other platforms such as Nintendo Switch, XBOX, Playstation 5 and Android or iOS.
