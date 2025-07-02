@@ -1,6 +1,6 @@
 # Balatro Reverse Engineering Attempt
 
-This project includes the 64-bit version of the Balatro Source Code with the Textures and Shaders included. Some things may not work. But, to run the game in 32-bit mode you can just use the 32-bit instructions.
+This project includes the 64-bit version of the Balatro Source Code. Some things may not work. But, to run the game in 32-bit mode you can just use the 32-bit instructions.
 
 ## NOTE
 
