@@ -7,7 +7,7 @@ This project includes the 64-bit version of the Balatro Source Code. Some things
 This project was not designed as a way to pirate the game. It was made as an attempt to reverse engineer and learn about the code that was written, and as a result learning the Love2D framework.
 
 ### NOTE II
-   ## To compile the game, you need the steam_api64.dll and luasteam.dll file from your actual Balatro installation in the repo directory. I will NOT supply those files as that will result in piracy. 
+   ## To compile the game, you need the steam_api64.dll and luasteam.dll and asset files from your actual Balatro installation in the repo directory. I will NOT supply those files as that will result in piracy. 
 
 ### Test Menu
 
